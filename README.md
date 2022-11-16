@@ -14,8 +14,4 @@ This is my final frt projet.This is a fashion blog website. You can find the inf
 https://ambitious-ocean-0ef279210.2.azurestaticapps.net/
 # Youtube link
 
-# messaging end point of the web app bot resource
-https://bblog-bot-b5f1.azurewebsites.net/api/messages
-# end point of language resource
-https://bblog.cognitiveservices.azure.com/
 

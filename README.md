@@ -13,5 +13,5 @@ This is my final frt projet.This is a fashion blog website. You can find the inf
 # my website azure link
 https://ambitious-ocean-0ef279210.2.azurestaticapps.net/
 # Youtube link
-
+https://youtu.be/cfuv_4N_j1w
 
